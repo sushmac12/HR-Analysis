@@ -37,12 +37,12 @@ Analyzed below points for the HR report based on number of employees and the sal
 
 •	created different measures based on number of employees and salary.
 
-**HR report by average salary , average balance days and sick days**
+### **HR report by average salary , average balance days and sick days**
 
 Analyzed total sick days of the employess by year and quarter, average salary and average balance days.
 
 
-**HR report by Regions**
+### **HR report by Regions**
 
 Analyzed employee education, gender, groups,job classification, job involvment, 
 job classification, job type, marital status, performance rating,work life balance by regions.
