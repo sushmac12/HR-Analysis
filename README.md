@@ -6,7 +6,9 @@ Analyzed below points for the report.
 •	Employee belongs to which department and which ethnicity group?
 
 •	The Job type is  full time or part time?
+
 •	Is Employee married or divorced or single?
+
 •	What is the Employee age?
 •	What business unit the Employee belongs to?
 •	Different states and hire dates of employees.
