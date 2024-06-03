@@ -1,9 +1,10 @@
-**HR Report Analysis by number of employees and salary **
+**** **HR Report Analysis by number of employees and salary** ****
 
 Human resources data is basically the employees data.
 Analyzed below points for the report.
 
 •	Employee belongs to which department and which ethnicity group?
+
 •	The Job type is  full time or part time?
 •	Is Employee married or divorced or single?
 •	What is the Employee age?
